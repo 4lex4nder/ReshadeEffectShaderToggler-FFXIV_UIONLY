@@ -13,5 +13,5 @@ Applies reshade effects before UI is drawn in FFXIV. May or may not crash everyt
 * Set game to DirectX 11 and Settings to Max, except for Anti-Aliasing and Ambient Occlusion, which can be whatever. You can further adjust after making sure everything works to verify nothing breaks on changing the settings
 
 # Known issues
-* If no UI is rendered, effects will be applied onto the whole screen (including ReShade overlay)
-* Effects are not visible on screenshots if no UI is rendered (e.g. scroll lock). Might need to use Print screen or SHIFT+ALT+S for now
+* ~~If no UI is rendered, effects will be applied onto the whole screen (including ReShade overlay)~~
+* ~~Effects are not visible on screenshots if no UI is rendered (e.g. scroll lock). Might need to use Print screen or SHIFT+ALT+S for now~~: Enable "Clear alpha channel" in ReShade settings
