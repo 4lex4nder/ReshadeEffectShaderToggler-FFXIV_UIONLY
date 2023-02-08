@@ -2,7 +2,7 @@
 Applies reshade effects before UI is drawn in FFXIV. May or may not crash everything. Rushed, hacky, and messy.
 
 # Instructions
-1. Click on the green "Code" button in the top left of this page then on "Download ZIP"
+1. Click on the green "Code" button in the top right of this page then on "Download ZIP"
 2. From the downloaded archive, put \*.addon and into C:\Program Files (x86)\SquareEnix\FINAL FANTASY XIV - A Realm Reborn\game
 3. If using Dalamud/XIVLauncher, put \*.ini into C:\Program Files (x86)\SquareEnix\FINAL FANTASY XIV - A Realm Reborn\game as well. Otherwise, move it to C:\Program Files (x86)\SquareEnix\FINAL FANTASY XIV - A Realm Reborn\boot
 4. Restart game
