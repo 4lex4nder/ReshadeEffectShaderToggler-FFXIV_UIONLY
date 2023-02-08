@@ -8,6 +8,7 @@ Applies reshade effects before UI is drawn in FFXIV. May or may not crash everyt
 4. Open ReShade overlay -> Goto tab "Add-ons" -> Enable "Copy depth buffer before clear operations" under "Generic Depth"
 
 # Notes
+* Use any ingame gamma display setting that is not exactly 50
 * If you have "FFKeepUI" and/or "FFRestoreUI" effects enabled, disable them
 * Try to avoid having multiples of the same effects hidden somewhere in nested folders in ReShade's Shader directory
 * Disable Dynamic Resolution in-game
