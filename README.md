@@ -1,8 +1,8 @@
 # ReshadeEffectShaderToggler-FFXIV_UIONLY
-Applies reshade effects before UI is drawn in FFXIV
-May or may not crash everything. Rushed, hacky, and messy.
+Applies reshade effects before UI is drawn in FFXIV. May or may not crash everything. Rushed, hacky, and messy.
 
 # Preconditions
+* Open ReShade overlay -> Goto tab "Add-ons" -> Enable "Copy depth buffer before clear operations" under "Generic Depth"
 * Put \*.addon and  \*.ini files into C:\Program Files (x86)\SquareEnix\FINAL FANTASY XIV - A Realm Reborn\game
 * Try to avoid having multiples of the same effects hidden somewhere in nested folders in ReShade's Shader directory
 * Disable Dynamic Resolution in-game
