@@ -3,7 +3,7 @@ Applies reshade effects before UI is drawn in FFXIV. May or may not crash everyt
 
 # Instructions
 1. Put \*.addon and into C:\Program Files (x86)\SquareEnix\FINAL FANTASY XIV - A Realm Reborn\game
-2. If using Dalamud, put \*.ini into C:\Program Files (x86)\SquareEnix\FINAL FANTASY XIV - A Realm Reborn\game as well. Otherwise, move it to C:\Program Files (x86)\SquareEnix\FINAL FANTASY XIV - A Realm Reborn\boot
+2. If using Dalamud/XIVLauncher, put \*.ini into C:\Program Files (x86)\SquareEnix\FINAL FANTASY XIV - A Realm Reborn\game as well. Otherwise, move it to C:\Program Files (x86)\SquareEnix\FINAL FANTASY XIV - A Realm Reborn\boot
 3. Restart game
 4. Open ReShade overlay -> Goto tab "Add-ons" -> Enable "Copy depth buffer before clear operations" under "Generic Depth"
 
