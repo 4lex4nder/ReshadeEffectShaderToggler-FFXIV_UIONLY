@@ -18,7 +18,7 @@ Applies reshade effects before UI is drawn in FFXIV. May or may not crash everyt
 # Known issues
 * ~~If no UI is rendered, effects will be applied onto the whole screen (including ReShade overlay)~~
 * ~~Effects are not visible on screenshots if no UI is rendered (e.g. scroll lock). Might need to use Print screen or SHIFT+ALT+S for now~~: Enable "Clear alpha channel" in ReShade settings
-* Effect statistics in the ReShade overlay don't works
+* Effect statistics in the ReShade overlay don't work
 
 # Changelog
 ## [13/02/2023](https://github.com/4lex4nder/ReshadeEffectShaderToggler/tree/0fa0f6fe41815cfaa3f22f7f740366796e13f6e6)
