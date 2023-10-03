@@ -1,3 +1,6 @@
+# <span style="color:red"><font size="10">DEPRECATED</font></span>
+Please use the [normal FFXIV config](https://github.com/4lex4nder/ReshadeEffectShaderToggler-FFXIV) for REST
+
 # ReshadeEffectShaderToggler-FFXIV_UIONLY
 Applies reshade effects before UI is drawn in FFXIV. May or may not crash everything. Rushed, hacky, and messy.
 
